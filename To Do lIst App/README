@@ -1,0 +1,41 @@
+Overview-
+
+Task App is a simple web application designed to help users manage their daily tasks. It provides a user-friendly interface for adding, completing, and removing tasks.
+
+Features-
+
+Task Creation: Users can easily add new tasks to the list by entering a description.
+
+Task Completion: Completed tasks can be marked as such using a checkmark, visually indicating their status.
+
+Task Removal: Users can remove unwanted tasks from the list, streamlining their to-do items.
+
+Technologies Used-
+
+HTML: The structure and layout of the application are defined using HTML elements.
+
+CSS: Styles and formatting are applied using CSS to enhance the visual appeal and user experience.
+
+JavaScript: The application's logic, including task management and user interactions, is implemented using JavaScript.
+
+Development Environment-
+
+Visual Studio Code (VSCode): This popular code editor was used for writing and editing the code.
+
+Live Server: A VSCode extension that provides a built-in development server for previewing the app in real-time.
+
+Getting Started-
+
+Clone the Repository: Download or clone the Task App repository from [GitHub repository link].
+Open in VSCode: Launch Visual Studio Code and open the project folder.
+Run Live Server: Use the Live Server extension to start a local development server.
+Access the App: Open your web browser and navigate to http://localhost:5500/ (or the port specified by Live Server).
+
+Possible Future Enhancements-
+
+Backend Integration: Explore adding a backend server (e.g., Node.js, Python) to store and manage tasks persistently.
+Database: Implement a database (e.g., MongoDB, PostgreSQL) to store task data and enable more advanced features.
+Additional Features: Consider adding features like task prioritization, due dates, and notifications.
+
+Contributing-
+Contributions are welcome! Feel free to fork the repository, make changes, and submit a pull request.
